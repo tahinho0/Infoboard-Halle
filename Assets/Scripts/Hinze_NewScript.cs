@@ -28,6 +28,7 @@ public class Hinze_NewScript : MonoBehaviour
     [SerializeField] private TextMeshProUGUI Task_name;
     [SerializeField] private GameObject InfoBox;
     [SerializeField] private Slider slider;
+    [SerializeField] private TextMeshProUGUI Prozent;
 
     private bool isFinished = false;
 
@@ -50,15 +51,29 @@ public class Hinze_NewScript : MonoBehaviour
     {
         for (int i = 0; i < Maschinen.Count; i++)
         {
-            //Debug.Log("Maschine   :" + Maschinen[i].name + " daten_save  :" + daten_save + "    daten_save[i]   :   " + daten_save[i] + "     daten_save.count  :  " + daten_save.Count);
-            if (Maschinen[i].name == name && daten_save != null && daten_save[i] != null && daten_save.Count > 0)
+            if (Maschinen[i].name == name && daten_save != null /*&& daten_save[i] != null*/ && daten_save.Count > 0)
             {
-                Debug.Log("in der if");
                 Name.text = daten_save[i].RowName;
                 Task_name.text = daten_save[i].ItemName;
-                //TimeSpan time = (TimeSpan)(daten_save[i].End - daten_save[i].Start);
-                //TimeSpan jetzt = ((TimeSpan)(DateTime.Now - daten_save[i].Start));
-                //slider.value = jetzt.Seconds / time.Seconds;
+                if (daten_save[i].Start == null || daten_save[i].End == null || daten_save[i].SplitEnd == null)
+                {
+                    slider.value = 0;
+                    Prozent.text = "0 %";
+                }
+                else
+                {
+                    TimeSpan? time = daten_save[i].SplitEnd - daten_save[i].Start;
+                    TimeSpan? jetzt = DateTime.Now - daten_save[i].Start;
+
+                    if (jetzt.HasValue && time.HasValue)
+                    {
+                        float percentage = (float)(jetzt.Value.TotalSeconds / (time.Value.TotalSeconds == 0 ? 1 : time.Value.TotalSeconds));
+                        percentage = Mathf.Clamp(percentage, 0, 100);
+                        slider.value = percentage;
+
+                        Prozent.text = (Math.Round(percentage * 100), 2) + " %";
+                    }
+                }
                 InfoBox.SetActive(true);
                 break;
             }

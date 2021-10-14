@@ -31,4 +31,7 @@ public class Machines_Data : MonoBehaviour
 
     [JsonProperty("End")]
     public DateTime? End { get; set; }
+
+    [JsonProperty("SplitEnd")]
+    public DateTime? SplitEnd { get; set; }
 }

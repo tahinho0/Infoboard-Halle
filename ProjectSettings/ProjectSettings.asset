@@ -154,7 +154,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.Server-Test
+    Standalone: com.DefaultCompany.infoBoardProduktionshalle
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -590,8 +590,10 @@ PlayerSettings:
   ps4IncludedModules: []
   ps4attribVROutputEnabled: 0
   monoEnv: 
-  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: cea2c9bf87b0c4dfdafb697a3ff00959, type: 3}
-  splashScreenBackgroundSourcePortrait: {fileID: 21300040, guid: a76b481fa37db7c40a6b6b020d7a32a5, type: 3}
+  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: cea2c9bf87b0c4dfdafb697a3ff00959,
+    type: 3}
+  splashScreenBackgroundSourcePortrait: {fileID: 21300040, guid: a76b481fa37db7c40a6b6b020d7a32a5,
+    type: 3}
   blurSplashScreenBackground: 1
   spritePackerPolicy: 
   webGLMemorySize: 16
@@ -649,7 +651,8 @@ PlayerSettings:
   metroDefaultTileSize: 1
   metroTileForegroundText: 2
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
-  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
+    a: 1}
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
   metroTargetDeviceFamilies: {}
@@ -687,7 +690,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 1
     Build: 0
-    Collab: 1
+    Collab: 0
     Game Performance: 0
     Purchasing: 0
     UDP: 0
