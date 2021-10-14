@@ -1,0 +1,1002 @@
+[
+  {
+    "$id": "2",
+    "Idx": 72,
+    "RowName": "Ziel:  2 Verkäufe tgl."
+  },
+  {
+    "$id": "3",
+    "Idx": 75,
+    "RowName": "5 Online-Präsentationen "
+  },
+  {
+    "$id": "4",
+    "Idx": 73,
+    "RowName": "5  Angebote tgl."
+  },
+  {
+    "$id": "5",
+    "Idx": 76,
+    "RowName": "130 Kontakte tgl."
+  },
+  {
+    "$id": "6",
+    "Idx": 77,
+    "RowName": "10 Downloads Goo/Softg"
+  },
+  {
+    "$id": "7",
+    "Idx": 2770,
+    "RowName": " "
+  },
+  {
+    "$id": "8",
+    "Idx": 3533,
+    "RowName": ".Hinze"
+  },
+  {
+    "$id": "9",
+    "Idx": 6144,
+    "RowName": "C.Hinze"
+  },
+  {
+    "$id": "10",
+    "Idx": 10311,
+    "RowName": "D.Doberstein"
+  },
+  {
+    "$id": "11",
+    "Idx": 10106,
+    "RowName": "C.Yan"
+  },
+  {
+    "$id": "12",
+    "Idx": 16065,
+    "RowName": "E.Kurzweg"
+  },
+  {
+    "$id": "13",
+    "Idx": 18808,
+    "RowName": ".Scheil"
+  },
+  {
+    "$id": "14",
+    "Idx": 18862,
+    "RowName": ".Lückemann"
+  },
+  {
+    "$id": "15",
+    "Idx": 18863,
+    "RowName": "Semenoglu"
+  },
+  {
+    "$id": "16",
+    "Idx": 23,
+    "RowName": "Vertriebsprojekte"
+  },
+  {
+    "$id": "17",
+    "Idx": 2411,
+    "RowName": "Vertrieb Allgemein"
+  },
+  {
+    "$id": "18",
+    "Idx": 6146,
+    "RowName": "C. Hinze"
+  },
+  {
+    "$id": "19",
+    "Idx": 6145,
+    "RowName": " "
+  },
+  {
+    "$id": "20",
+    "Idx": 13973,
+    "RowName": "C. Hinze W.v."
+  },
+  {
+    "$id": "21",
+    "Idx": 13956,
+    "RowName": "C.Hinze GTD"
+  },
+  {
+    "$id": "22",
+    "Idx": 8,
+    "RowName": "Hinze"
+  },
+  {
+    "$id": "23",
+    "Idx": 12,
+    "RowName": " "
+  },
+  {
+    "$id": "24",
+    "Idx": 13974,
+    "RowName": "Hinze W.v."
+  },
+  {
+    "$id": "25",
+    "Idx": 13953,
+    "RowName": "Hinze GTD"
+  },
+  {
+    "$id": "26",
+    "Idx": 15881,
+    "RowName": "Yan"
+  },
+  {
+    "$id": "27",
+    "Idx": 15882,
+    "RowName": "ANYAN"
+  },
+  {
+    "$id": "28",
+    "Idx": 15883,
+    "RowName": "Yan W.v."
+  },
+  {
+    "$id": "29",
+    "Idx": 15884,
+    "RowName": "Yan GTD"
+  },
+  {
+    "$id": "30",
+    "Idx": 7994,
+    "RowName": "Doberstein"
+  },
+  {
+    "$id": "31",
+    "Idx": 7995,
+    "RowName": "AnDo"
+  },
+  {
+    "$id": "32",
+    "Idx": 14146,
+    "RowName": "Doberstein W.v."
+  },
+  {
+    "$id": "33",
+    "Idx": 13954,
+    "RowName": "Doberstein GTD"
+  },
+  {
+    "$id": "34",
+    "Idx": 18792,
+    "RowName": "Scheil"
+  },
+  {
+    "$id": "35",
+    "Idx": 18793,
+    "RowName": "sch"
+  },
+  {
+    "$id": "36",
+    "Idx": 18799,
+    "RowName": "Mironenko"
+  },
+  {
+    "$id": "37",
+    "Idx": 18800,
+    "RowName": "Miro"
+  },
+  {
+    "$id": "38",
+    "Idx": 18801,
+    "RowName": "Mironenko GTD"
+  },
+  {
+    "$id": "39",
+    "Idx": 18802,
+    "RowName": "Lückemann"
+  },
+  {
+    "$id": "40",
+    "Idx": 18803,
+    "RowName": "Lüc"
+  },
+  {
+    "$id": "41",
+    "Idx": 18882,
+    "RowName": "Lüc.Update"
+  },
+  {
+    "$id": "42",
+    "Idx": 18804,
+    "RowName": "Lückemann GTD"
+  },
+  {
+    "$id": "43",
+    "Idx": 18794,
+    "RowName": "Lam"
+  },
+  {
+    "$id": "44",
+    "Idx": 18795,
+    "RowName": "MTL"
+  },
+  {
+    "$id": "45",
+    "Idx": 18904,
+    "RowName": "Semenoglu"
+  },
+  {
+    "$id": "46",
+    "Idx": 18905,
+    "RowName": "Sme"
+  },
+  {
+    "$id": "47",
+    "Idx": 18906,
+    "RowName": "Semenoglu GTD"
+  },
+  {
+    "$id": "48",
+    "Idx": 18915,
+    "RowName": "Randa Laghchioua"
+  },
+  {
+    "$id": "49",
+    "Idx": 6525,
+    "RowName": " "
+  },
+  {
+    "$id": "50",
+    "Idx": 6789,
+    "RowName": " "
+  },
+  {
+    "$id": "51",
+    "Idx": 7976,
+    "RowName": "Vincent NL/BE"
+  },
+  {
+    "$id": "52",
+    "Idx": 18796,
+    "RowName": "Selvi"
+  },
+  {
+    "$id": "53",
+    "Idx": 18797,
+    "RowName": "Se"
+  },
+  {
+    "$id": "54",
+    "Idx": 18809,
+    "RowName": "Vincent Anwesenheit"
+  },
+  {
+    "$id": "55",
+    "Idx": 10328,
+    "RowName": "Sim Reseller   Australien"
+  },
+  {
+    "$id": "56",
+    "Idx": 18798,
+    "RowName": "Selvi GTD"
+  },
+  {
+    "$id": "57",
+    "Idx": 13976,
+    "RowName": "USA W.v."
+  },
+  {
+    "$id": "58",
+    "Idx": 18776,
+    "RowName": "Rosenberg"
+  },
+  {
+    "$id": "59",
+    "Idx": 13978,
+    "RowName": "USA GTD"
+  },
+  {
+    "$id": "60",
+    "Idx": 18777,
+    "RowName": "Ro"
+  },
+  {
+    "$id": "61",
+    "Idx": 18778,
+    "RowName": "Rosenberg GTD"
+  },
+  {
+    "$id": "62",
+    "Idx": 18779,
+    "RowName": "Lindenberg"
+  },
+  {
+    "$id": "63",
+    "Idx": 18780,
+    "RowName": "Li"
+  },
+  {
+    "$id": "64",
+    "Idx": 18781,
+    "RowName": "Lindenberg GTD"
+  },
+  {
+    "$id": "65",
+    "Idx": 18788,
+    "RowName": "Klaffke"
+  },
+  {
+    "$id": "66",
+    "Idx": 18789,
+    "RowName": "NK"
+  },
+  {
+    "$id": "67",
+    "Idx": 18790,
+    "RowName": "Klaffke GTD"
+  },
+  {
+    "$id": "68",
+    "Idx": 18805,
+    "RowName": "Kaminski"
+  },
+  {
+    "$id": "69",
+    "Idx": 18806,
+    "RowName": "Kam"
+  },
+  {
+    "$id": "70",
+    "Idx": 18807,
+    "RowName": "Kaminski GTD"
+  },
+  {
+    "$id": "71",
+    "Idx": 18813,
+    "RowName": "Janzon"
+  },
+  {
+    "$id": "72",
+    "Idx": 18814,
+    "RowName": "CJ"
+  },
+  {
+    "$id": "73",
+    "Idx": 18815,
+    "RowName": "Janzon GTD"
+  },
+  {
+    "$id": "74",
+    "Idx": 18819,
+    "RowName": "Fricke"
+  },
+  {
+    "$id": "75",
+    "Idx": 18820,
+    "RowName": "JF"
+  },
+  {
+    "$id": "76",
+    "Idx": 18821,
+    "RowName": "Fricke GTD"
+  },
+  {
+    "$id": "77",
+    "Idx": 18828,
+    "RowName": "D.Kurzweg"
+  },
+  {
+    "$id": "78",
+    "Idx": 18864,
+    "RowName": "AnW"
+  },
+  {
+    "$id": "79",
+    "Idx": 18876,
+    "RowName": "Heisinger"
+  },
+  {
+    "$id": "80",
+    "Idx": 18877,
+    "RowName": "MH"
+  },
+  {
+    "$id": "81",
+    "Idx": 18878,
+    "RowName": "Heisinger GTD"
+  },
+  {
+    "$id": "82",
+    "Idx": 18870,
+    "RowName": "Langhammer"
+  },
+  {
+    "$id": "83",
+    "Idx": 18871,
+    "RowName": "DL"
+  },
+  {
+    "$id": "84",
+    "Idx": 18872,
+    "RowName": "Langhammer GTD"
+  },
+  {
+    "$id": "85",
+    "Idx": 18897,
+    "RowName": "Hietkamp\r\nVideo"
+  },
+  {
+    "$id": "86",
+    "Idx": 18898,
+    "RowName": "TH"
+  },
+  {
+    "$id": "87",
+    "Idx": 18899,
+    "RowName": "Hietkamp GTD"
+  },
+  {
+    "$id": "88",
+    "Idx": 18900,
+    "RowName": "Kirmes"
+  },
+  {
+    "$id": "89",
+    "Idx": 18903,
+    "RowName": "AK"
+  },
+  {
+    "$id": "90",
+    "Idx": 18902,
+    "RowName": "Kirmes GTD"
+  },
+  {
+    "$id": "91",
+    "Idx": 18907,
+    "RowName": "Kirchner"
+  },
+  {
+    "$id": "92",
+    "Idx": 18908,
+    "RowName": "NK"
+  },
+  {
+    "$id": "93",
+    "Idx": 18909,
+    "RowName": "Kirchner GTD"
+  },
+  {
+    "$id": "94",
+    "Idx": 18919,
+    "RowName": "Brenhahn"
+  },
+  {
+    "$id": "95",
+    "Idx": 18920,
+    "RowName": "KB"
+  },
+  {
+    "$id": "96",
+    "Idx": 18921,
+    "RowName": "Brenhahn GTD"
+  },
+  {
+    "$id": "97",
+    "Idx": 17220,
+    "RowName": "Vorortschulungen"
+  },
+  {
+    "$id": "98",
+    "Idx": 18267,
+    "RowName": "Schulungsraum einrichten"
+  },
+  {
+    "$id": "99",
+    "Idx": 16059,
+    "RowName": "Support-Update Abstimmung"
+  },
+  {
+    "$id": "100",
+    "Idx": 16071,
+    "RowName": "Eliza Kurzweg"
+  },
+  {
+    "$id": "101",
+    "Idx": 14889,
+    "RowName": "e"
+  },
+  {
+    "$id": "102",
+    "Idx": 14888,
+    "RowName": "Kurzweg W.v."
+  },
+  {
+    "$id": "103",
+    "Idx": 16064,
+    "RowName": "Kurzweg GTD"
+  },
+  {
+    "$id": "104",
+    "Idx": 8489,
+    "RowName": "Bestijanic"
+  },
+  {
+    "$id": "105",
+    "Idx": 8490,
+    "RowName": "be"
+  },
+  {
+    "$id": "106",
+    "Idx": 13948,
+    "RowName": "Bestijanic Aufgabenerfüllung "
+  },
+  {
+    "$id": "107",
+    "Idx": 14013,
+    "RowName": "Bestijanic Wv."
+  },
+  {
+    "$id": "108",
+    "Idx": 14153,
+    "RowName": "Fechner"
+  },
+  {
+    "$id": "109",
+    "Idx": 14156,
+    "RowName": "ANFECH"
+  },
+  {
+    "$id": "110",
+    "Idx": 14154,
+    "RowName": "Fechner WV"
+  },
+  {
+    "$id": "111",
+    "Idx": 14155,
+    "RowName": "Fechner Aufgabenerfüllung"
+  },
+  {
+    "$id": "112",
+    "Idx": 16021,
+    "RowName": "Arash"
+  },
+  {
+    "$id": "113",
+    "Idx": 16022,
+    "RowName": "ar"
+  },
+  {
+    "$id": "114",
+    "Idx": 15894,
+    "RowName": "Arash WV"
+  },
+  {
+    "$id": "115",
+    "Idx": 16053,
+    "RowName": "Arash Aufgabenerfüllung"
+  },
+  {
+    "$id": "116",
+    "Idx": 18873,
+    "RowName": "Behrens"
+  },
+  {
+    "$id": "117",
+    "Idx": 18874,
+    "RowName": "JB"
+  },
+  {
+    "$id": "118",
+    "Idx": 18875,
+    "RowName": "Behrens Aufgabenerfüllung"
+  },
+  {
+    "$id": "119",
+    "Idx": 6196,
+    "RowName": "Härtel"
+  },
+  {
+    "$id": "120",
+    "Idx": 6265,
+    "RowName": "ha"
+  },
+  {
+    "$id": "121",
+    "Idx": 14012,
+    "RowName": "Härtel Wv."
+  },
+  {
+    "$id": "122",
+    "Idx": 13949,
+    "RowName": "Härtel Aufgabenerfüllung "
+  },
+  {
+    "$id": "123",
+    "Idx": 6757,
+    "RowName": "Test Vorrat"
+  },
+  {
+    "$id": "124",
+    "Idx": 16056,
+    "RowName": "Tickets in Bearbeitung"
+  },
+  {
+    "$id": "125",
+    "Idx": 14180,
+    "RowName": "Auslieferung"
+  },
+  {
+    "$id": "126",
+    "Idx": 18868,
+    "RowName": "Support Action Required"
+  },
+  {
+    "$id": "127",
+    "Idx": 6791,
+    "RowName": " "
+  },
+  {
+    "$id": "128",
+    "Idx": 25,
+    "RowName": "Stategische Ziele"
+  },
+  {
+    "$id": "129",
+    "Idx": 15171,
+    "RowName": "Eingangszeile"
+  },
+  {
+    "$id": "130",
+    "Idx": 7974,
+    "RowName": "Jöhnk"
+  },
+  {
+    "$id": "131",
+    "Idx": 7975,
+    "RowName": "jo"
+  },
+  {
+    "$id": "132",
+    "Idx": 13474,
+    "RowName": "Jöhnk\r\nAufgaben-Störungen"
+  },
+  {
+    "$id": "133",
+    "Idx": 6880,
+    "RowName": "Müller"
+  },
+  {
+    "$id": "134",
+    "Idx": 6881,
+    "RowName": "mu"
+  },
+  {
+    "$id": "135",
+    "Idx": 13475,
+    "RowName": "Müller\r\nAufgaben-Störungen"
+  },
+  {
+    "$id": "136",
+    "Idx": 9252,
+    "RowName": "Neer"
+  },
+  {
+    "$id": "137",
+    "Idx": 9253,
+    "RowName": "nr"
+  },
+  {
+    "$id": "138",
+    "Idx": 12376,
+    "RowName": "Neer Aufgaben-Störungen"
+  },
+  {
+    "$id": "139",
+    "Idx": 6311,
+    "RowName": "Omernik"
+  },
+  {
+    "$id": "140",
+    "Idx": 6312,
+    "RowName": "om"
+  },
+  {
+    "$id": "141",
+    "Idx": 13476,
+    "RowName": "Omernik\r\nAufgaben-Störungen"
+  },
+  {
+    "$id": "142",
+    "Idx": 14847,
+    "RowName": "Pham"
+  },
+  {
+    "$id": "143",
+    "Idx": 14849,
+    "RowName": "ph"
+  },
+  {
+    "$id": "144",
+    "Idx": 14848,
+    "RowName": "Pham Aufgaben-Störungen"
+  },
+  {
+    "$id": "145",
+    "Idx": 18782,
+    "RowName": "Schröder"
+  },
+  {
+    "$id": "146",
+    "Idx": 18784,
+    "RowName": "DaS"
+  },
+  {
+    "$id": "147",
+    "Idx": 18783,
+    "RowName": "Schröder Aufgaben Störungen"
+  },
+  {
+    "$id": "148",
+    "Idx": 46,
+    "RowName": "Schultz"
+  },
+  {
+    "$id": "149",
+    "Idx": 47,
+    "RowName": "sc"
+  },
+  {
+    "$id": "150",
+    "Idx": 13950,
+    "RowName": "Schultz  Aufgaben-Störungen "
+  },
+  {
+    "$id": "151",
+    "Idx": 18816,
+    "RowName": "Hamer"
+  },
+  {
+    "$id": "152",
+    "Idx": 18817,
+    "RowName": "JH"
+  },
+  {
+    "$id": "153",
+    "Idx": 18818,
+    "RowName": "Hamer Aufgaben Störungen"
+  },
+  {
+    "$id": "154",
+    "Idx": 18810,
+    "RowName": "Keppeler"
+  },
+  {
+    "$id": "155",
+    "Idx": 18811,
+    "RowName": "PK"
+  },
+  {
+    "$id": "156",
+    "Idx": 18812,
+    "RowName": "Keppeler Aufgaben-Störungen"
+  },
+  {
+    "$id": "157",
+    "Idx": 16073,
+    "RowName": "Testmaschine"
+  },
+  {
+    "$id": "158",
+    "Idx": 18822,
+    "RowName": "Jaspers"
+  },
+  {
+    "$id": "159",
+    "Idx": 18823,
+    "RowName": "RJ"
+  },
+  {
+    "$id": "160",
+    "Idx": 18824,
+    "RowName": "Jaspers Aufgaben Störungen"
+  },
+  {
+    "$id": "161",
+    "Idx": 18825,
+    "RowName": "Dahedl"
+  },
+  {
+    "$id": "162",
+    "Idx": 18826,
+    "RowName": "SD"
+  },
+  {
+    "$id": "163",
+    "Idx": 18827,
+    "RowName": "Dahedl Aufgaben Störungen"
+  },
+  {
+    "$id": "164",
+    "Idx": 18865,
+    "RowName": "Georgiev"
+  },
+  {
+    "$id": "165",
+    "Idx": 18869,
+    "RowName": "GE"
+  },
+  {
+    "$id": "166",
+    "Idx": 18866,
+    "RowName": "Georgiev Aufgaben-Störungen"
+  },
+  {
+    "$id": "167",
+    "Idx": 18879,
+    "RowName": "Michaelis"
+  },
+  {
+    "$id": "168",
+    "Idx": 18880,
+    "RowName": "JM"
+  },
+  {
+    "$id": "169",
+    "Idx": 18881,
+    "RowName": "Michaelis Aufgaben-Störungen"
+  },
+  {
+    "$id": "170",
+    "Idx": 18883,
+    "RowName": "Krog"
+  },
+  {
+    "$id": "171",
+    "Idx": 18884,
+    "RowName": "Kra"
+  },
+  {
+    "$id": "172",
+    "Idx": 18885,
+    "RowName": "Krog Aufgaben-Störungen"
+  },
+  {
+    "$id": "173",
+    "Idx": 18887,
+    "RowName": "Kiefer"
+  },
+  {
+    "$id": "174",
+    "Idx": 18888,
+    "RowName": "MK"
+  },
+  {
+    "$id": "175",
+    "Idx": 18889,
+    "RowName": "Kiefer Aufgaben-Störungen"
+  },
+  {
+    "$id": "176",
+    "Idx": 18890,
+    "RowName": "Idrissi"
+  },
+  {
+    "$id": "177",
+    "Idx": 18891,
+    "RowName": "TI"
+  },
+  {
+    "$id": "178",
+    "Idx": 18892,
+    "RowName": "Idrissi Aufgaben-Störungen"
+  },
+  {
+    "$id": "179",
+    "Idx": 18896,
+    "RowName": "Kostiuk"
+  },
+  {
+    "$id": "180",
+    "Idx": 18894,
+    "RowName": "JK"
+  },
+  {
+    "$id": "181",
+    "Idx": 18895,
+    "RowName": "Kostiuk Aufgaben-Störungen"
+  },
+  {
+    "$id": "182",
+    "Idx": 18911,
+    "RowName": "Hafeneger"
+  },
+  {
+    "$id": "183",
+    "Idx": 18912,
+    "RowName": "CaH"
+  },
+  {
+    "$id": "184",
+    "Idx": 18913,
+    "RowName": "Hafeneger Aufgaben- Störungen"
+  },
+  {
+    "$id": "185",
+    "Idx": 18916,
+    "RowName": "Krug"
+  },
+  {
+    "$id": "186",
+    "Idx": 18918,
+    "RowName": "AK"
+  },
+  {
+    "$id": "187",
+    "Idx": 18917,
+    "RowName": "Krug Aufgaben- Störungen"
+  },
+  {
+    "$id": "188",
+    "Idx": 6886,
+    "RowName": " "
+  },
+  {
+    "$id": "189",
+    "Idx": 5677,
+    "RowName": " "
+  },
+  {
+    "$id": "190",
+    "Idx": 5684,
+    "RowName": "Sales"
+  },
+  {
+    "$id": "191",
+    "Idx": 8201,
+    "RowName": " "
+  },
+  {
+    "$id": "192",
+    "Idx": 4078,
+    "RowName": " OP I"
+  },
+  {
+    "$id": "193",
+    "Idx": 7921,
+    "RowName": "OP II"
+  },
+  {
+    "$id": "194",
+    "Idx": 11337,
+    "RowName": "OP im Internet"
+  },
+  {
+    "$id": "195",
+    "Idx": 11339,
+    "RowName": "Reseller Programm"
+  },
+  {
+    "$id": "196",
+    "Idx": 11341,
+    "RowName": "CRM weltweit"
+  },
+  {
+    "$id": "197",
+    "Idx": 11343,
+    "RowName": "Produktmanagement Typo3"
+  },
+  {
+    "$id": "198",
+    "Idx": 11359,
+    "RowName": "Newsletter regelmässig senden"
+  },
+  {
+    "$id": "199",
+    "Idx": 11357,
+    "RowName": "Vorbereitung Mandantenfähigkeit"
+  },
+  {
+    "$id": "200",
+    "Idx": 11358,
+    "RowName": "Registrierung Demo und Zahlung"
+  },
+  {
+    "$id": "201",
+    "Idx": 13947,
+    "RowName": "Technische Aspekte der Cloud"
+  }
+]
